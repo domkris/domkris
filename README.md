@@ -1,11 +1,17 @@
 - 👋 Hi, I’m Domagoj
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Fullstack Software Developer
+
+Welcome to my GitHub profile! I'm Domagoj Kristov, a passionate fullstack software developer with a keen interest in building robust and scalable applications. 
+Here, you'll find a collection of projects that showcase my skills, ranging from frontend development to backend systems.
 
 
-domkris/domkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- **Programming Languages:** JavaScript, C#
+- **Frontend Development:** HTML, CSS, React, AngularJs, KnockoutJs
+- **Backend Development:** Node.js, .NET MVC, .NET Web API
+- **Databases:** SQL Server, DB2, MySQL
+- **Version Control:** Git, Azure DevOps
+
+
+
