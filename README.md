@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Domagoj
+👋 Hi, I’m Domagoj
 # Fullstack Software Developer
 
 Welcome to my GitHub profile! I'm Domagoj Kristov, a passionate fullstack software developer with a keen interest in building robust and scalable applications. 
