@@ -13,5 +13,9 @@ Here, you'll find a collection of projects that showcase my skills, ranging from
 - **Databases:** SQL Server, DB2, MySQL
 - **Version Control:** Git, Azure DevOps
 
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dkristov/) for collaboration or job opportunities.
+
 
 
