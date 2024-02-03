@@ -15,7 +15,7 @@ Here, you'll find a collection of projects that showcase my skills, ranging from
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dkristov/) for collaboration or job opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dkristov/)
 
 
 
